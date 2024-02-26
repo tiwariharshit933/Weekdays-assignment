@@ -370,3 +370,113 @@ table.dataTable span.highlight {
 .slick-dots{
     bottom: -2px !important;
 }
+
+.navbar_main, .navbar{
+    width: 100%;
+}
+.logo_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff !important;
+}
+a.navbar-brand {
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+}
+.me-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    width: 365px;
+}
+.righttext {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    align-items: center;
+}
+.right_sec{
+    display: flex;
+    align-items: center;
+}
+.img{
+    margin: 0 15px;
+    cursor: pointer;
+}
+.img img{
+    width: 22px;
+}
+.img span{
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+}
+.singleimg{
+    margin: 0 15px;
+}
+.img1{
+    width: 44px;
+    margin: 0 15px;
+}
+.text2 {
+    font-size: 18px;
+    line-height: 27px;
+    cursor: pointer;
+}
+.singleimg{
+    cursor: pointer;
+}
+.slidertwoinner{
+    width: 230px;
+}
+.sliderTwoMain h2{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.img122 h2{
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 500;
+    margin: 3px 0;
+    color:#3B3B3B;
+}
+.img122 p{
+    font-size: 14px;
+    line-height: 21px;
+    color:#3B3B3B;
+    margin: 3px 0;
+}
+
+button.submitnow {
+    background: #226CF5;
+    color: #fff;
+    padding: 8px 16px;
+    width: 100%;
+    border-radius: 3px;
+    margin-top: 8px;
+}
+.mainlinlks{
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+}
+.quickLinks h3{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    margin: 20px 0 10px;
+}
+.mainlinlks a{
+    margin: 5px;
+    text-decoration: underline;
+}
+.linkssingle{
+    margin: 5px 10px 10px;
+}
